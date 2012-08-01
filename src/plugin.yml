@@ -1,0 +1,6 @@
+name: DiacraftCredit
+version: 1.0
+authors: [Buddy251, markusvat]
+main: com.buddy251markusvat.credit.Main
+commands:
+  credit:
